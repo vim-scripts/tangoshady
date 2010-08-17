@@ -1,0 +1,13 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3206
+
+This is a dark background tango colorscheme for gvim, macvim etc.
+
+Inspired by the default vim settings in ubuntu linux gnome-terminal. Colors are one-to-one except some modifications like the Pmenu for better reading experience.
+
+IMPORTANT: THIS IS ONLY FOR GUI VIM
+
+Screenshot:
+http://niksan.com/vim/tangoshady.png
+
+
+For donations email Shady at vimpimps@gmail.com
